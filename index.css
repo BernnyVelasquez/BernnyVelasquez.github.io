@@ -106,8 +106,8 @@ b{
   text-align: right;
   display: block;
   position: relative;
-  font-size: 35px;
-  letter-spacing: 5px;
+  font-size: 2.3vw;
+  letter-spacing: .3vw;
   color: #3d535f;
   font-weight: normal;
   top: 100px;
@@ -181,8 +181,8 @@ b{
 .topline-home{
   display: block;
   position: relative;
-  font-size: 35px;
-  letter-spacing: 5px;
+  font-size: 2.3vw;
+  letter-spacing: .3vw;
   color: #3d535f;
 }
 
@@ -212,8 +212,8 @@ b{
 .topline-about{
   display: block;
   position: relative;
-  font-size: 35px;
-  letter-spacing: 5px;
+  font-size: 2.3vw;
+  letter-spacing: .3vw;
   color: #3d535f;
 }
 
@@ -443,8 +443,8 @@ button:hover{
   text-align: left;
   display: block;
   position: relative;
-  font-size: 35px;
-  letter-spacing: 5px;
+  font-size: 2.3vw;
+  letter-spacing: .3vw;
   color: #3d535f;
   font-weight: normal;
   top: 100px;
