@@ -293,7 +293,7 @@ button:hover{
 .header-main-sm-lk{
   width: 30px;
   height: 30px;
-  background-image: url(../src/images/linkedin.png);
+  background-image: url(../images/linkedin.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -305,7 +305,7 @@ button:hover{
 .header-main-sm-in{
   width: 30px;
   height: 30px;
-  background-image: url(../src/images/instagram.png);
+  background-image: url(../images/instagram.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -317,7 +317,7 @@ button:hover{
 .header-main-sm-gh{
   width: 30px;
   height: 30px;
-  background-image: url(../src/images/github.png);
+  background-image: url(../images/github.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -536,7 +536,7 @@ textarea{
 .email-ct{
   width: 30px;
   height: 30px;
-  background-image: url(../src/images/email.png);
+  background-image: url(../images/email.png);
   background-size: cover;
   background-repeat: no-repeat;
   mix-blend-mode: color-burn;
@@ -550,7 +550,7 @@ textarea{
 .lk-ct{
   width: 30px;
   height: 30px;
-  background-image: url(../src/images/linkedin.png);
+  background-image: url(../images/linkedin.png);
   background-repeat: no-repeat;
   background-size: cover;
   mix-blend-mode: color-burn;
